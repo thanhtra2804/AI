@@ -27,11 +27,6 @@ Tai lieu ke hoach va tai lieu ky thuat duoc dat trong thu muc [docs](docs).
 - [RAG Pipeline](docs/09-rag-pipeline.md)
 - [Release Checklist](docs/10-release-checklist.md)
 
-## Ghi chu
-
-- Khong co phan uoc luong gio theo yeu cau.
-- Uu tien trien khai tuan tu theo [Roadmap theo Sprint](docs/02-roadmap-sprints.md).
-- Database mode: Neon-only, khong dung local Postgres.
 
 ## Chay local toi uu
 
