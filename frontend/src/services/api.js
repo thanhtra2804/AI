@@ -69,11 +69,7 @@ export async function askChat(payload) {
 }
 
 export async function generateExercise(payload) {
-  return requestJson(
-    "/exercise/generate",
-    payload,
-    "Không thể tạo exercise",
-  );
+  return requestJson("/exercise/generate", payload, "Không thể tạo exercise");
 }
 
 export async function gradeExercise(payload) {
